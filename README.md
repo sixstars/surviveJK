@@ -20,7 +20,7 @@
 
 本项目仓库网址：[surviveJK](https://github.com/sixstars/surviveJK)
 
-如果想要提意见的话，直接在仓库的 issue 区提出即可。
+如果想要提意见的话，直接在仓库的 **Discussion** 区提出即可。
 
 如果想要直接修订内容，可以按照如下步骤：
 
