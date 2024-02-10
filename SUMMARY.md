@@ -22,8 +22,15 @@
 
 ## 专业分流篇
 
-* [分流简介](zhuan-ye-fen-liu-pian/fen-liu-jian-jie.md)
+* [分流规则简介](zhuan-ye-fen-liu-pian/fen-liu-gui-ze-jian-jie.md)
+* [各专业介绍](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/README.md)
+  * [我是某专业](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/wo-shi-mou-zhuan-ye.md)
 * [转专业](zhuan-ye-fen-liu-pian/zhuan-zhuan-ye.md)
+
+## 社团竞赛篇
+
+* [各社团、竞赛介绍](she-tuan-jing-sai-pian/ge-she-tuan-jing-sai-jie-shao/README.md)
+  * [我是某社团](she-tuan-jing-sai-pian/ge-she-tuan-jing-sai-jie-shao/wo-shi-mou-she-tuan.md)
 
 ***
 
