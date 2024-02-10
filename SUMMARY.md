@@ -4,18 +4,19 @@
 
 ## 前言
 
-* [技术科学实验班](qian-yan/ji-shu-ke-xue-shi-yan-ban.md)
+* [欢迎大家来到技科](qian-yan/huan-ying-da-jia-lai-dao-ji-ke.md)
 * [信息搜集](qian-yan/xin-xi-sou-ji.md)
 
 ## 学习生活篇
 
+* [技科概况](xue-xi-sheng-huo-pian/ji-ke-gai-kuang.md)
 * [课程](xue-xi-sheng-huo-pian/ke-cheng.md)
 * [先导课程](xue-xi-sheng-huo-pian/xian-dao-ke-cheng.md)
 * [绩点](xue-xi-sheng-huo-pian/ji-dian.md)
 
 ## 校园生活篇
 
-* [宿舍](xiao-yuan-sheng-huo-pian/su-she.md)
+* [宿舍区](xiao-yuan-sheng-huo-pian/su-she-qu.md)
 * [校园设施](xiao-yuan-sheng-huo-pian/xiao-yuan-she-shi.md)
 * [日常生活](xiao-yuan-sheng-huo-pian/ri-chang-sheng-huo.md)
 
