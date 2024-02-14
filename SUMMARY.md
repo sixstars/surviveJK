@@ -24,13 +24,21 @@
 
 * [分流规则简介](zhuan-ye-fen-liu-pian/fen-liu-gui-ze-jian-jie.md)
 * [各专业介绍](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/README.md)
-  * [我是某专业](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/wo-shi-mou-zhuan-ye.md)
+  * [信息科学与工程学院](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/xin-xi-ke-xue-yu-gong-cheng-xue-yuan.md)
+  * [计算机科学技术学院](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/ji-suan-ji-ke-xue-ji-shu-xue-yuan.md)
+  * [微电子学院](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/wei-dian-zi-xue-yuan.md)
+  * [大数据学院](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/da-shu-ju-xue-yuan.md)
+  * [材料科学系](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/cai-liao-ke-xue-xi.md)
+  * [航空航天系](zhuan-ye-fen-liu-pian/ge-zhuan-ye-jie-shao/hang-kong-hang-tian-xi.md)
 * [转专业](zhuan-ye-fen-liu-pian/zhuan-zhuan-ye.md)
 
 ## 社团竞赛篇
 
-* [各社团、竞赛介绍](she-tuan-jing-sai-pian/ge-she-tuan-jing-sai-jie-shao/README.md)
-  * [我是某社团](she-tuan-jing-sai-pian/ge-she-tuan-jing-sai-jie-shao/wo-shi-mou-she-tuan.md)
+* [社团](she-tuan-jing-sai-pian/she-tuan/README.md)
+  * [信息网络安全协会](she-tuan-jing-sai-pian/she-tuan/xin-xi-wang-luo-an-quan-xie-hui.md)
+* [竞赛](she-tuan-jing-sai-pian/jing-sai/README.md)
+  * [数学建模](she-tuan-jing-sai-pian/jing-sai/shu-xue-jian-mo.md)
+  * [CTF](she-tuan-jing-sai-pian/jing-sai/ctf.md)
 
 ***
 
