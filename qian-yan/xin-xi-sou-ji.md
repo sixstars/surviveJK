@@ -71,12 +71,12 @@
 除了公众号之外，更正式的发布公告和文件的地方就是各种官网。此外，选课、上课等各种操作也都是在网站上完成的。常用和推荐的网站有：
 
 * ehall：[https://ehall.fudan.edu.cn](http://ehall.fudan.edu.cn/)
+* 财务综合门户：从ehall进入，可以查看学校给自己发的酬金、物价补贴等具体信息
 * 教务服务：[https://jwfw.fudan.edu.cn](https://jwfw.fudan.edu.cn)（功能有期中退课、查成绩查绩点、分流转专业、课程大纲查询等）
 * 选课系统：[https://xk.fudan.edu.cn](https://xk.fudan.edu.cn)
 * 电子邮箱：[https://mail.m.fudan.edu.cn](https://mail.m.fudan.edu.cn)
 * elearning：[https://elearning.fudan.edu.cn](http://elearning.fudan.edu.cn/portal)（课程的线上平台，老师会在上面放课程资料和作业等内容）
-* 财务综合门户：[https://www.cwgl.fudan.edu.cn/WFManager/login.jsp](http://www.cwgl.fudan.edu.cn/WFManager/login.jsp)
 * 评教：[https://ce.fudan.edu.cn](https://ce.fudan.edu.cn)（学校官方的课程评价平台）
 * 蛋壳课评：[https://danke.fduhole.com](https://danke.fduhole.com/)（学生维护的课程评价平台）
-* 第二共产树洞：[https://docs.qq.com/sheet/DTU1oYVB2akJHdWJx](https://docs.qq.com/sheet/DTU1oYVB2akJHdWJx)（树洞爆炸时的临时选课交流文档）
+* 第二共产树洞：[https://docs.qq.com/sheet/DTU1oYVB2akJHdWJx](https://docs.qq.com/sheet/DTU1oYVB2akJHdWJx)（树洞不可用时的临时选课交流文档）
 * FDU开放题库：[https://www.notion.so/FDU-82b7f0265fc743f7a9bbf32293495b52](https://www.notion.so/FDU-82b7f0265fc743f7a9bbf32293495b52)（学生维护的课程资料仓库，希望大家有资源也多多上传\~）
