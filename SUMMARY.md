@@ -39,6 +39,10 @@
 * [竞赛](she-tuan-jing-sai-pian/jing-sai/README.md)
   * [数学建模](she-tuan-jing-sai-pian/jing-sai/shu-xue-jian-mo.md)
   * [CTF](she-tuan-jing-sai-pian/jing-sai/ctf.md)
+  * [ACM/XCPC](she-tuan-jing-sai-pian/jing-sai/acm-xcpc/README.md)
+    * [训练投入](she-tuan-jing-sai-pian/jing-sai/acm-xcpc/xun-lian-tou-ru.md)
+    * [校队选拔](she-tuan-jing-sai-pian/jing-sai/acm-xcpc/xiao-dui-xuan-ba.md)
+    * [比赛](she-tuan-jing-sai-pian/jing-sai/acm-xcpc/bi-sai.md)
 
 ***
 
