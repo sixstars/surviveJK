@@ -8,6 +8,10 @@
 
 ### 资料推荐
 
+{% embed url="https://fdu-open-exam.gitbook.io/csdiy" %}
+复旦自己的CS自学指南
+{% endembed %}
+
 【科普】 [Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)：对整个计算机科学的零基础科普向介绍，方向涵盖非常全面，推荐任何对计算机相关事物感到好奇的同学都看一看。
 
 【入门】 [CS50: This is CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS50/)：连续多年被哈佛大学学生评为最受欢迎的公选课程，非常适合小白入门。
